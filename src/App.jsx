@@ -4,7 +4,7 @@ import Navbar from './components/Navbar';
 import Footer from "./components/footer";
 import Home from "./components/Home";
 import About from "./components/About";
-// import Resume from "./Components/Resume";
+import Resume from "./components/Resume";
 import Projects from "./components/Projects";
 import MoveToTop from "./components/MoveToTop";
 import Lottie from  "lottie-react";
@@ -49,7 +49,7 @@ function App() {
         <Route path="/" element={<Home/>} />
         <Route path="/About" element={<About/>}/>
         <Route path="/Project" element={<Projects/>}/>
-        {/* <Route path="/Resume" element={<Resume/>}/> */}
+        <Route path="/Resume" element={<Resume/>}/>
       </Routes>
       
       <Footer/>
