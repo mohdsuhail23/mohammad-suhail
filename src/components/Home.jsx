@@ -1,6 +1,6 @@
 import React from 'react';
-// import Lottie from  "lottie-react";
-// import SpaceBoy from "../LottieFiles/SpaceBoy.json";
+import Lottie from  "lottie-react";
+import SpaceBoy from "../assets/LottieFiles/SpaceBoy.json";
 import Typed from "./Typed";
 import Tilt from 'react-parallax-tilt';
 import Avatar from '../assets/images/Avatar.png';
@@ -16,11 +16,11 @@ const Home = () => {
           <Typed/>   
         </div>
 
-        {/* <Lottie 
+        <Lottie 
           className="illustration" 
           animationData={SpaceBoy} 
           loop={true} 
-        /> */}
+        />
         
       </div>
 
