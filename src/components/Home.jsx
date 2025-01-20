@@ -28,11 +28,7 @@ const Home = () => {
         <div className='AboutText'>
           <h1 className='AboutTextHeading'>Brief <b>introduction</b></h1>
           <p>
-          I’m a <b>frontend developer </b> with a Bachelor’s degree in Computer Application from Khwaja Moinuddin Chishti Language University.<br /><br />
-          I’m skilled in <b>HTML, CSS,</b> and <b> JavaScript </b>, which I use to create responsive and engaging web pages. I’m also proficient in React for building dynamic user interfaces and Bootstrap for quickly designing mobile-friendly websites.<br />
-          I’ve done a 4-month <b>SEO internship</b> at <b>Logilite Pvt. Ltd.</b>, giving me a good understanding of optimizing websites for better search engine rankings. I’m eager to apply my skills in a real-world setting and am actively looking for a job or internship to continue learning and growing.<br/><br/>
-            I plan to learn <b>Next.js</b>, <b>Node.js</b> and<b>Express.js</b> in the near future. <br /><br />
-             
+          I am a passionate <b>MERN stack developer</b>  with over a year of experience in building full-stack websites at <b>Cloudfort Technologies and Consultancy</b>. I hold a Bachelor’s degree in Computer Application from Khwaja Moinuddin Chishti Language University. My skills include React for building dynamic user interfaces, <b>Node.js and Express.js</b> for backend development, and MongoDB for database management. I specialize in creating responsive and engaging web pages using HTML, CSS, and JavaScript, and I am also adept at Bootstrap for designing mobile-friendly websites efficiently. Additionally, my 4-month SEO internship at Logilite Pvt. Ltd. provided me with a strong understanding of optimizing websites for better search engine rankings. I am eager to apply my skills in real-world settings and continue learning and growing in this field. My future learning plans include exploring Next.js and enhancing my expertise further.      
           </p>
         </div>
         <Tilt>
