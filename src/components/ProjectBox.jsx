@@ -15,6 +15,9 @@ function ProjectBox({projectPhoto, projectName}) {
     
         Social_Media_DownloaderDesc : "Created a webapplication using React and Tailwind css and RapidAPI to enable video downloads from platforms like Instagram and Facebook. Utilized RapidAPI to access and manage social media APIs ",
         Social_Media_DownloaderGithub :"https://github.com/Suhail1102/insta-reel-downloader",
+
+        TodoListDesc : "A simple MERN project that lets the user insert, update, delete & get products from the MongoDB. ",
+        TodoListGithub :"https://github.com/Suhail1102/Todo-Mern-App",
     
       }
 
