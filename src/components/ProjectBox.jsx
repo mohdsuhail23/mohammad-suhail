@@ -6,6 +6,9 @@ function ProjectBox({projectPhoto, projectName}) {
     const desc = {
       InvoicifyDesc:"Invoicify is a MERN stack-based tax invoice generator that simplifies invoice creation and storage for future use. It offers a seamless and efficient way to manage billing with a user-friendly interface.",
       InvoicifyGithub:"https://github.com/Suhail1102/Tax-invoice-generator",
+
+      SnapCartDesc:"SnapCart is a modern e-commerce platform built with the MERN stack, offering seamless product browsing, cart management, and secure Stripe-powered checkout. With a responsive UI and smooth user experience, it makes online shopping fast, easy, and secure. 🚀🛒",
+      SnapCartGithub:"https://github.com/Suhail1102/SnapCart",
     
         Random_Jokes_GeneratorDesc : "This project is based on generate random jokes . In this project i used html , Css, and Javascript and Api for random jokes . i used asynchronous Javascript to fetch the response from an Apito genrate jokes.",
         Random_Jokes_GeneratorGithub : "https://github.com/Suhail1102/Random-Jokes-Generator",
