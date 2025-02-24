@@ -4,6 +4,10 @@ import {FaGithub} from "react-icons/fa";
 function ProjectBox({projectPhoto, projectName}) {
 
     const desc = {
+       
+      CanaryoncoDesc : "Providing patients and healthcare professionals with cutting-edge technologies that empower personalized cancer therapy and inform treatment decisions, for a brighter, healthier future.",
+      CanaryoncoGithub : "https://canaryonco.gwaddons.com/",
+
       InvoicifyDesc:"Invoicify is a MERN stack-based tax invoice generator that simplifies invoice creation and storage for future use. It offers a seamless and efficient way to manage billing with a user-friendly interface.",
       InvoicifyGithub:"https://github.com/Suhail1102/Tax-invoice-generator",
 

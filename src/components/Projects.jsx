@@ -6,7 +6,7 @@ import shoppers from '../assets/images/shopperhub.png';
 import insta from '../assets/images/insta.png';
 import SnapCart from '../assets/images/SnapCart.png';
 import ProjectBox from './ProjectBox';
-
+import canaryonco from '../assets/images/canaryonco.png'
 
 function Projects() {
   return (
@@ -14,6 +14,7 @@ function Projects() {
 <div>
       <h1 className='projectHeading'>My <b>Projects</b></h1>
       <div className='project'>
+      <ProjectBox projectPhoto={canaryonco} projectName="Canaryonco" />
         <ProjectBox projectPhoto={taxInvocie} projectName="Invoicify" />
         <ProjectBox projectPhoto={SnapCart} projectName="SnapCart" />
         <ProjectBox projectPhoto={TodoImage} projectName="TodoList" />
